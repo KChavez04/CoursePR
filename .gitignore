@@ -1,0 +1,8 @@
+#ignore the entire .idea directory
+/.idea/
+
+#ignore the entire target directory
+/target/
+
+#ignore .mvn/wrapper directory
+/.mvn/wrapper
