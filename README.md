@@ -1,6 +1,16 @@
 ## README
 When launched, this program will host a server that is accessible via http://localhost:8080. It allows you to see the course sequence of all courses within a subject at TTU. This file contains information about how to clone, compile, and run the code. It also lists the file structure as well as the list of dependencies.
 
+##
+#### Back story
+This program works by using Jsoup to web scrape the data. Then, it parses the data and organizes it into an array list. The data is organized by major, where it is in the course sequence, and a few other things. The visual aspect was written by my professor.
+
+We went through an agile development cycle to make this. This included the following steps. 
+1. User stories
+2. UML diagrams
+3. Multiple build iterations which included: Jsoup for web scraping, JUnit for testing
+4. Optimization: Whenever you previously loaded a course sequence, it would save like a cookie. This allowed the next load of that course sequence to be quicker.
+
 
 ###
 #### How to clone the code from the repository
