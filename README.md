@@ -1,5 +1,5 @@
 ## README
-When launched, this program will host a server that is accessible via http://localhost:8080. It allows you to see the course sequence of all courses within a subject at TTU. This file contains information about how to clone, compile, and run the code. It also lists the file structure as well as the list of dependencies.
+When launched, this program will a web app that is accessible via localhost It allows you to see the course sequence of all courses within a subject at TTU. This file contains information about how to clone, compile, and run the code. It also lists the file structure as well as the list of dependencies.
 
 ##
 #### Back story
