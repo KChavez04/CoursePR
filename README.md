@@ -1,5 +1,5 @@
 ## README
-When launched, this program will load a web app that is accessible via localhost It allows you to see the course sequence of all courses within a subject at TTU. This file contains information about how to clone, compile, and run the code. It also lists the file structure as well as the list of dependencies.
+When launched, this program will load a web app that is accessible via localhost. It allows you to see the course sequence of all courses within a subject at TTU. This file contains information about how to clone, compile, and run the code. It also lists the file structure as well as the list of dependencies.
 
 ##
 #### Back story
@@ -18,6 +18,7 @@ We went through an agile development cycle to make this. This included the follo
 ````
 git clone https://github.com/KChavez04/CoursePR.git
 ````
+
 
 ###
 #### How to compile the program
@@ -74,4 +75,3 @@ A special thanks to Jerry Gannod for writing the following files.
   * CourseTest (except where otherwise noted)
   * CourseCatalogTest (except where otherwise noted)
   * CoursePrApplicationTest
-  
